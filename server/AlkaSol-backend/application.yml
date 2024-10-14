@@ -1,0 +1,8 @@
+solanaj:
+  endpoint: https://api.mainnet-beta.solana.com
+  cluster:
+    endpoints:
+      - url: https://api.mainnet-beta.solana.com
+        weight: 50
+      - url: https://solana-api.projectserum.com
+        weight: 50
